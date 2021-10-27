@@ -1,3 +1,4 @@
+# Self Introduction
 - 👋 Hi, I’m @Singal0927 葛新杰
 - 👀 I’m interested in Data Science and Quantitative Trading.
 - 🌱 I’m currently learning Finance as a junior at Anhui University.
